@@ -1,3 +1,4 @@
+-- Credit: Lantas
 local DEFAULT_CONFIG = {
     enableDiagonal = true,
     walkDelay = 300,
